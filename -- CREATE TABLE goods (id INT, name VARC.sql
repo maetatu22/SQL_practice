@@ -7,3 +7,5 @@ SHOW columns FROM goods;
 SHOW columns FROM goods;
 -- ALTER TABLE goods DROP stock;
 SHOW columns FROM goods;
+-- INSERT INTO goods VALUES(1, "ペン", 120);
+SELECT * FROM goods; 
