@@ -1,0 +1,2 @@
+USE sqltest;
+SHOW DATABASES;
