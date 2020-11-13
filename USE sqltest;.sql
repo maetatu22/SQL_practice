@@ -1,2 +1,2 @@
-USE sqltest;
-SHOW DATABASES;
+-- USE sqltest;
+-- SHOW DATABASES;

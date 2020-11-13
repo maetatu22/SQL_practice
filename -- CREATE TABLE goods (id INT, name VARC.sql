@@ -1,11 +1,11 @@
 -- CREATE TABLE goods (id INT, name VARCHAR(255))
-SHOW TABLES;
-SHOW columns FROM goods;
+-- SHOW TABLES;
+-- SHOW columns FROM goods;
 -- ALTER TABLE goods ADD (price int , zaiko int);
-SHOW columns FROM goods;
+-- SHOW columns FROM goods;
 -- ALTER TABLE goods CHANGE zaiko stock int;
-SHOW columns FROM goods;
+-- SHOW columns FROM goods;
 -- ALTER TABLE goods DROP stock;
-SHOW columns FROM goods;
+-- SHOW columns FROM goods;
 -- INSERT INTO goods VALUES(1, "ペン", 120);
 SELECT * FROM goods; 
