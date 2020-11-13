@@ -5,3 +5,5 @@ SHOW columns FROM goods;
 SHOW columns FROM goods;
 -- ALTER TABLE goods CHANGE zaiko stock int;
 SHOW columns FROM goods;
+-- ALTER TABLE goods DROP stock;
+SHOW columns FROM goods;
