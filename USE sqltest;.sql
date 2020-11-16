@@ -8,3 +8,6 @@ USE sqltest;
 
 -- UPDATE goods SET price = 100 WHERE id = 2;
 -- SELECT * FROM goods;
+
+DELETE FROM goods WHERE id = 2;
+SELECT * FROM goods;
